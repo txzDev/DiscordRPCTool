@@ -2,7 +2,7 @@
 
 - Nice, clean UI with easy help. (Some can refer to this github project, but you can get easy help without this.)
 - Easy to use.
-- Press the "Minimase" button and it will close, but still run the the backgroud. (To open, go to the "Show hidden icons" [here](https://i.imgur.com/lBHgHW8.png) and double click on the icon.
+- Press the "Minimize" button and it will close, but still run the the background. (To open, go to the "Show hidden icons" [here](https://i.imgur.com/lBHgHW8.png) and double click on the icon.
 - Set custom text to display on you discord activity.
 - Add custom image for display.
 - And best of all, its open source!
@@ -10,11 +10,11 @@
 # How to install
 
 - Go to "Releases"
-- Find the latest version and download the .zip file. (For source code, find the file(s) labled "source-code".)
+- Find the latest version and download the .zip file. (For source code, find the file(s) labeled "source-code".)
 - Create a folder somewhere such as your desktop and extract the .zip file in the folder.
 - Run Discord RPC Tool.exe.
-- Follow the tutorial below if lost on setting up your config.
-- Done! You can now run the tool safly!
+- Follow the tutorial below if you are lost on setting up your config.
+- Done! You can now run the tool safely!
 
 # How to set up
 

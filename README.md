@@ -17,7 +17,7 @@ v2.0
 # How to install
 
 - Go to "Releases"
-- Find the latest version and download the .zip file. (For source code, Download the wanted version from [here](https://github.com/txzDev/DiscordRPCTool/tree/main/src))
+- Find the latest version and download the .zip or .exe file. (For source code, Download the wanted version from [here](https://github.com/txzDev/DiscordRPCTool/tree/main/src))
 - Create a folder somewhere such as your desktop and extract the .zip file in the folder.
 - Run the .exe.
 - Follow the tutorial below if you are lost on setting up your config.
@@ -42,7 +42,8 @@ For the image, Go back to https://discord.com/developers/applications and click 
 
 ![alt text](https://i.imgur.com/3m8QtNw.png)
 
-# Credits
+# Credits / Info
 
 - Icons by [Icons8](https://icons8.com/).
 - Library by [Lachee](hhttps://github.com/Lachee/discord-rpc-csharp).
+- If you want to build it yourself, just download the source code and you can build in in Visual Studio.

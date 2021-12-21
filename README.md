@@ -11,8 +11,15 @@ v2.0
 - New UI, easy to understand with working links.
 - Lots of bug fixes and now more reliable.
 - New Button feature!
-- Support server: https://discord.gg/rvBSWnu5Jc
+- Support server: NULL
 - And guess what? Still open source!
+
+v3.0
+- Bug fixes
+- Added multiple button support (Max 2)
+- Changed UI a bit
+- Fixed/Updated links
+- Still open source and as good as always!
 
 # How to install
 
